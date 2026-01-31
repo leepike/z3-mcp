@@ -8,8 +8,8 @@ Simple/toy MCP (Model Context Protocol) server that integrates the Z3 theorem pr
 
 ## Components
 
-- **z3_mcp_server.py** - MCP server that exposes Z3's `check_smt` tool
-- **z3_client.py** - Example client that connects the MCP server to OpenAI's API for interactive problem solving
+- **z3_mcp_server.py** - MCP server that exposes Z3's `check_smt` tool.
+- **z3_client.py** - Example client that connects the MCP server to OpenAI's API for interactive problem solving.
 
 ## Installation
 
